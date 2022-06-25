@@ -188,15 +188,15 @@ https://gitlab.com/hwdsl2/setup-ipsec-vpn/-/raw/master/vpnsetup.sh
 
 配置你的计算机或其它设备使用 VPN。请参见：
 
-[**配置 IKEv2 VPN 客户端（推荐）**](docs/ikev2-howto-zh.md)
+**[配置 IKEv2 VPN 客户端（推荐）](docs/ikev2-howto-zh.md)**
 
-[**配置 IPsec/L2TP VPN 客户端**](docs/clients-zh.md)
+**[配置 IPsec/L2TP VPN 客户端](docs/clients-zh.md)**
 
-[**配置 IPsec/XAuth ("Cisco IPsec") VPN 客户端**](docs/clients-xauth-zh.md)
+**[配置 IPsec/XAuth ("Cisco IPsec") VPN 客户端](docs/clients-xauth-zh.md)**
 
 开始使用自己的专属 VPN! :sparkles::tada::rocket::sparkles:
 
-如果你喜欢这个项目，可以 [表达你的支持或感谢](https://coindrop.to/hwdsl2)。
+你喜欢这个项目吗？**[通过捐赠来支持它或表示感谢](https://coindrop.to/hwdsl2)**。
 
 <a href="https://coindrop.to/hwdsl2" target="_blank"><img src="docs/images/embed-button.png" height="38" width="153" alt="Coindrop.to me"></img></a>
 

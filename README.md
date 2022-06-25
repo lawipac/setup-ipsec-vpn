@@ -188,15 +188,15 @@ If you are unable to download, open [vpnsetup.sh](vpnsetup.sh), then click the `
 
 Get your computer or device to use the VPN. Please refer to:
 
-[**Configure IKEv2 VPN clients (recommended)**](docs/ikev2-howto.md)
+**[Configure IKEv2 VPN Clients (recommended)](docs/ikev2-howto.md)**
 
-[**Configure IPsec/L2TP VPN Clients**](docs/clients.md)
+**[Configure IPsec/L2TP VPN Clients](docs/clients.md)**
 
-[**Configure IPsec/XAuth ("Cisco IPsec") VPN Clients**](docs/clients-xauth.md)
+**[Configure IPsec/XAuth ("Cisco IPsec") VPN Clients](docs/clients-xauth.md)**
 
 Enjoy your very own VPN! :sparkles::tada::rocket::sparkles:
 
-Like this project? You can [show your support or appreciation](https://coindrop.to/hwdsl2).
+Like this project? **[Support it by donating or just say thanks](https://coindrop.to/hwdsl2)**.
 
 <a href="https://coindrop.to/hwdsl2" target="_blank"><img src="docs/images/embed-button.png" height="38" width="153" alt="Coindrop.to me"></img></a>
 
